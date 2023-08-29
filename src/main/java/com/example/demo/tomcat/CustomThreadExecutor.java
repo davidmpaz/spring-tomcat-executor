@@ -26,7 +26,6 @@ import org.apache.tomcat.util.threads.ResizableExecutor;
 import org.apache.tomcat.util.threads.TaskQueue;
 import org.apache.tomcat.util.threads.TaskThreadFactory;
 import org.apache.tomcat.util.threads.ThreadPoolExecutor;
-import org.springframework.stereotype.Component;
 
 import java.util.concurrent.TimeUnit;
 

@@ -8,6 +8,12 @@ of the logging sentences.
 
 Goal is to send greetings to browser by replacing the thread executor.
 
+### Running it
+
+    ./mvnw spring-boot:run
+
+Then visit: http://localhost:8080/greet
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
